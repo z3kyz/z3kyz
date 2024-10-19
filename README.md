@@ -12,7 +12,7 @@
 
 
 ---
-### 🧰 Languages and Tools
+### 🧰 0x01 > Languages and Tools
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
@@ -47,20 +47,20 @@
 
 
 ---
-## 📜 Notable Projects
+## 📜 0x02 > Notable Projects
 
 [![sk1ddymap](https://github-readme-stats.vercel.app/api/pin/?username=z3kyz&repo=sk1ddymap&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/z3kyz/sk1ddymap)
 
 ---
 -----
-## 🗃 Support my Work
+## 🗃 0x03 > Support my Work
 
  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/z3kyz)
 -----
 <img src="https://tryhackme-badges.s3.amazonaws.com/z3ky.png" alt="Your Image Badge" />
 
 ---
-### 📊 Stats
+### 📊 0x04 > Stats
 
 ![z3ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3kyz&show_icons=true&theme=gruvbox)
 
