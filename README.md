@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dilushi Pabasara 
+<h1 align="center">Hi there 👋, I'm Dilushi 
 
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/user-attachments/assets/a49c0140-a77c-4959-81ab-5731b945bc3f) 
 
