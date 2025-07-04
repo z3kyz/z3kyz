@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Dilushi</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a49c0140-a77c-4959-81ab-5731b945bc3f" alt="Cybersecurity Graphic" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a49c0140-a77c-4959-81ab-5731b945bc3f" alt="Cybersecurity Graphic" width="100"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c585f7e-3597-41ea-bcf8-0b457375421e" alt="AI Graphic" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1c585f7e-3597-41ea-bcf8-0b457375421e" alt="AI Graphic" width="100"/>
 </p>
 
 <p align="center">
