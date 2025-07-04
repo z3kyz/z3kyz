@@ -4,7 +4,7 @@
 
 ![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/1c585f7e-3597-41ea-bcf8-0b457375421e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DBD09&center=true&vCenter=true&random=true&width=435&lines=I+am+a+Cybersecurity+and+AI+Researcher;Developer;Designer+)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DBD09&center=true&vCenter=true&random=true&width=435&lines=I+am+a+Cybersecurity;and+AI+Researcher;Developer;Designer+)](https://git.io/typing-svg) </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3kyz&label=Profile%20views&color=0e75b6&style=flat"  alt="z3kyz" /> </p>
 
