@@ -64,9 +64,5 @@
 ---
 ### 📊 0x04 > Stats
 
-#![z3ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3kyz&show_icons=true&theme=gruvbox)
-
-#![GitHub Streak](https://streak-stats.demolab.com?user=z3kyz&theme=gruvbox&border_radius=4.5)
-
 ---
 
