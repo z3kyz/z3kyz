@@ -45,8 +45,10 @@
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
-
-
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" />
+<img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" />
 <br clear="left"/>
 
 
