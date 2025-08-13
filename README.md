@@ -45,6 +45,17 @@
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
+
+<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" />
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" />
+<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" />
+<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg" />
+<img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" />
+<img align="left" alt="OpenVAS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openvas/openvas-original.svg" />
+<img align="left" alt="Nessus" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nessus/nessus-original.svg" />
+<img align="left" alt="OWASP ZAP" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zaproxy/zaproxy-original.svg" />
+<img align="left" alt="Hashcat" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hashcat/hashcat-original.svg" />
+<img align="left" alt="John the Ripper" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/johntheripper/johntheripper-original.svg" />
 <br clear="left"/>
 
 
