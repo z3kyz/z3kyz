@@ -58,14 +58,6 @@
 [![sk1ddymap](https://github-readme-stats.vercel.app/api/pin/?username=z3kyz&repo=sk1ddymap&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/z3kyz/sk1ddymap)
 
 ---
------
-## 🗃 0x03 > Support my Work
-
- [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/z3kyz)
------
-<img src="https://tryhackme-badges.s3.amazonaws.com/z3ky.png" alt="Your Image Badge" />
-
----
 ### 📊 0x04 > Stats
 
 ---
